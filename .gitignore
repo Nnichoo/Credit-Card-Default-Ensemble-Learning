@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# MacOS
+.DS_Store
+__MACOSX/
+
+# VS Code optional
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
