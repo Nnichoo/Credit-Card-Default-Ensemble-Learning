@@ -24,16 +24,19 @@ Project ini membandingkan beberapa pendekatan model:
 ## Isi Folder
 
 ```text
-TugasBesarMachineLearning_RevisiResponsi/
+Credit-Card-Default-Ensemble-Learning/
 ├── README.md
 ├── REFERENSI_REVISI.md
 ├── .gitignore
-├── UCI_Credit_Card.csv
-├── Tubes_Ensemble_Credit_Card_Default_V3_RevisiResponsi.ipynb
-├── hasil_perbandingan_model_v3.csv
-├── best_by_category_v3.csv
-├── ranking_model_v3.csv
-└── hasil_prediksi_model_terbaik_v3.csv
+├── data/
+│   └── UCI_Credit_Card.csv
+├── notebooks/
+│   └── Tubes_Ensemble_Credit_Card_Default_V3_RevisiResponsi.ipynb
+└── outputs/
+    ├── hasil_perbandingan_model_v3.csv
+    ├── best_by_category_v3.csv
+    ├── ranking_model_v3.csv
+    └── hasil_prediksi_model_terbaik_v3.csv
 ```
 
 Keterangan file:
