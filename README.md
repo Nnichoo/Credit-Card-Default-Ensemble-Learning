@@ -31,7 +31,7 @@ Credit-Card-Default-Ensemble-Learning/
 ├── data/
 │   └── UCI_Credit_Card.csv
 ├── notebooks/
-│   └── Tubes_Ensemble_Credit_Card_Default_V3_RevisiResponsi.ipynb
+│   └── credit_card_default_ensemble_learning.ipynb
 └── outputs/
     ├── hasil_perbandingan_model_v3.csv
     ├── best_by_category_v3.csv
